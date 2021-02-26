@@ -100,6 +100,7 @@
 			"variable.other.constant"
 		  ],
 		  "settings": {
+			  "fontStyle": "bold",
 			"foreground": "#1E90FF"
 		  }
 		},
@@ -197,6 +198,7 @@
 		  "name": "Function Parameters",
 		  "scope": "variable.parameter",
 		  "settings": {
+			"fontStyle": "bold",
 			"foreground": "#7986E7"
 		  }
 		},
@@ -225,6 +227,7 @@
 			"meta.tag.html"
 		  ],
 		  "settings": {
+			  "fontStyle": "bold",
 			"foreground": "#ff5572"
 		  }
 		},
@@ -232,6 +235,7 @@
 		  "name": "Tag attribute",
 		  "scope": "entity.other.attribute-name",
 		  "settings": {
+			  "fontStyle": "",
 			"foreground": "#ffbc3e"
 		  }
 		},
@@ -266,6 +270,7 @@
 			"support.class"
 		  ],
 		  "settings": {
+			  "fontStyle": "bold",
 			"foreground": "#ffbc3e"
 		  }
 		},
@@ -338,7 +343,8 @@
 		  "name": "Meta Brace",
 		  "scope": "meta.brace",
 		  "settings": {
-			"foreground": "#010101"
+			"fontStyle": "bold",
+			"foreground": "#7e92d4"
 		  }
 		},
 		{
@@ -452,6 +458,7 @@
 		  "name": "Punctuation Definition Parameters",
 		  "scope": "punctuation.definition.parameters",
 		  "settings": {
+			"fontStyle": "bold",
 			"foreground": "#8A2BE2"
 		  }
 		},
@@ -495,6 +502,7 @@
 		  "name": "Entity Name Function",
 		  "scope": "entity.name.function",
 		  "settings": {
+			  "fontStyle": "bold",
 			"foreground": "#1E90FF"
 		  }
 		},
@@ -929,6 +937,7 @@
 		  "name": "JavaScript Variable Parameter Function",
 		  "scope": "variable.parameter.function.js",
 		  "settings": {
+			  "fontStyle": "bold",
 			"foreground": "#7986E7"
 		  }
 		},
@@ -1348,7 +1357,8 @@
 			"entity.name.type.tsx"
 		  ],
 		  "settings": {
-			"foreground": "#78ccf0"
+			"fontStyle": "bold",
+				"foreground": "#FFB200"
 		  }
 		},
 		{
