@@ -1,15 +1,48 @@
 {
 	"name": "Dayspring theme",
 	"type": "light",
+	"author": "Jorrit Keijzer",
+    "maintainers": [
+      "Jorrit Keijzer <jorrit@keijzer.jp>"
+    ],
 	"colors": {
-		"editor.background": "#fafafa",
-		"editor.foreground": "#333333"
+		"editor.background": "#ffffff",
+		"editor.foreground": "#091121",
+		"editor.lineHighlightBackground": "#fafafa",
+		"activityBar.foreground": "#596377",
+		"activityBar.background": "#ffffff",
+		"activityBarBadge.background": "#091121",
+		"activityBarBadge.foreground": "#ffffff",
+		"sideBar.background": "#fafafa",
+		"sideBarTitle.foreground": "#010101",
+		"sideBarSectionHeader.background": "#f1f1f1",
+		"sideBarSectionHeader.foreground": "#091121",
+		"statusBar.foreground": "#091121",
+		"statusBar.background": "#f1f1f1",
+		"terminal.background": "#ffffff",
+		"tab.activeBorder": "#010101",
+		"tab.border": "#e5e5e5",
+		"editorPane.background": "#f1f1f1",
+		"tab.inactiveBackground": "#f1f1f1",
+		"list.activeSelectionForeground": "#091121",
+		"list.activeSelectionBackground": "#e5e5e5",
+		"list.hoverBackground": "#e5e5e5",
+		"list.hoverForeground": "#1E90FF",
+		"list.inactiveSelectionForeground": "#1E90FF",
+		"list.inactiveSelectionBackground": "#f1f1f1",
+		"scrollbarSlider.activeBackground": "#e5e5e5",
+		"scrollbarSlider.background": "#ffffff",
+		"tab.activeBackground": "#e5e5e5",
+		"gitDecoration.modifiedResourceForeground": "#091121",
+		"gitDecoration.untrackedResourceForeground": "#0088FF",
+		"list.errorForeground": "#FF0000"
+		
 	},
 	"tokenColors": [
 		{
 		  "name": "Global settings",
 		  "settings": {
-			"background": "#292D3E",
+			"background": "#fff",
 			"foreground": "#010101"
 		  }
 		},
@@ -888,7 +921,8 @@
 			"meta.export.js variable.other"
 		  ],
 		  "settings": {
-			"foreground": "#010101"
+			"foreground": "#010101",
+			"fontStyle": "bold"
 		  }
 		},
 		{
@@ -902,7 +936,8 @@
 		  "name": "JavaScript Variable Other ReadWrite",
 		  "scope": "variable.other.readwrite.js",
 		  "settings": {
-			"foreground": "#010101"
+			"foreground": "#010101",
+			
 		  }
 		},
 		{
