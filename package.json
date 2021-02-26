@@ -1,12 +1,13 @@
 {
   "name": "vscode-dayspring-theme",
   "displayName": "Dayspring theme",
-  "description": "An actual good light theme.",
+  "description": "An actual good light theme you want to use.",
   "version": "1.0.0",
   "author": "Jorrit Keijzer",
+  "publisher": "JorritKeijzer",
   "license": "MIT",
   "keywords": [
-    "Vscode-theme"
+    "Vscode-theme", "light theme", "Ace palenight", "Palenight"
   ],
   "bugs": {
     "url": "https://github.com/JorritKeijzer/vscode-dayspring-theme/issues"
