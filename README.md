@@ -9,7 +9,7 @@ An actual good light theme you want to use. ✨☀️
 # Screenshot
 <div align="center"> 
 
-![theme preview](https://i.imgur.com/2A0snyt.png)
+![theme preview](https://i.imgur.com/AgoROCp.png)
 
 </div>
 
