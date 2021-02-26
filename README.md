@@ -2,8 +2,6 @@
 
 [![Version](https://vsmarketplacebadge.apphb.com/version/JorritKeijzer.vscode-dayspring-theme.svg)](https://marketplace.visualstudio.com/items?itemName=JorritKeijzer.vscode-dayspring-theme) [![Downloads](https://img.shields.io/vscode-marketplace/d/JorritKeijzer.vscode-dayspring-theme.svg)](https://marketplace.visualstudio.com/items?itemName=JorritKeijzer.vscode-dayspring-theme) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) ![Maintaner](https://img.shields.io/badge/maintainer-JorritKeijzer-blue) [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
 
-https://marketplace.visualstudio.com/items?itemName=JorritKeijzer.vscode-dayspring-theme
-
 An actual good light theme you want to use. ✨☀️
 
 > Inspired by [Ace Palenight Theme](https://github.com/acestojanoski/ace-palenight) and [Marvelous Light Theme](https://github.com/christian-vogel/marvelous-light#marvelous-light-color-theme-for-visual-studio-code)
