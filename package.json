@@ -1,0 +1,21 @@
+{
+    "name": "dayspring-theme",
+    "displayName": "Dayspring theme",
+    "description": "An actual good lighttheme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.53.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dayspring theme",
+                "uiTheme": "vs",
+                "path": "./themes/Dayspring theme-color-theme.json"
+            }
+        ]
+    }
+}
