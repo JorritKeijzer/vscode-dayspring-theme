@@ -28,4 +28,4 @@ See something strange? Please report [here](https://github.com/JorritKeijzer/vsc
 
 This theme is released under the [MIT licence](https://github.com/JorritKeijzer/vscode-dayspring-theme/blob/master/license.md).
 
-✨ Designed by Jorrit Keijzer Find me on **[Twitter](https://twitter.com/jorritkeyzer)** ✨
+✨ Designed by Jorrit Keijzer  ✨
